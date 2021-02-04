@@ -20,9 +20,9 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 
 ```bash
 # Clone this repository
-git clone https://github.com/rewhite11/simple-calculator
+git clone https://github.com/rewhite11/simple-calculator-linux
 # Go into the repository
-cd simple-calculator
+cd simple-calculator-linux
 # Install dependencies
 npm install
 # Run the app
